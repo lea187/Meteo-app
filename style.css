@@ -1,0 +1,65 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f8ff;
+    color: #333;
+    display: flex; /* Utiliser flexbox pour centrer le contenu */
+    justify-content: center; /* Centre horizontalement */
+    align-items: center; /* Centre verticalement */
+    height: 100vh; /* Prend toute la hauteur de la fenêtre */
+}
+
+.container {
+    max-width: 600px;
+    margin: 0; /* Enlever la marge pour que le conteneur soit centré */
+    padding: 20px;
+    text-align: center;
+}
+
+.logo-home {
+    max-width: 200px; /* Ajuste la taille selon tes besoins */
+    margin-bottom: 10px; /* Espace sous le logo */
+}
+
+.logo-result {
+    max-width: 100px; /* Ajuste la taille selon tes besoins */
+    margin-bottom: 10px; /* Espace sous le logo */
+}
+
+input[type="text"] {
+    padding: 10px;
+    width: 70%;
+    margin: 10px 0;
+    border: none;
+    border-radius: 50px;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+
+button[type="submit"] {
+    padding: 10px;
+    width: 70%;
+    margin: 10px 0;
+    border: none;
+    border-radius: 50px;
+    background-color: #123452;
+    color: white;
+    cursor: pointer;
+    font-family: 'Poppins', sans-serif;
+}
+
+button[type="submit"]:hover {
+    background-color: #357ab8;
+}
+
+a {
+    display: inline-block;
+    margin-top: 20px;
+    text-decoration: none;
+    color: #4a90e2;
+}
+
+a:hover {
+    text-decoration: underline;
+}
