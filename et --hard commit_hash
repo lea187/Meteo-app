@@ -1,0 +1,74 @@
+[33mcommit 8e3de71e5e2170dc03404b38c74e1b719e2ae84d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: c4d267d e3ee619
+Author: Lea Gomis <lea.187@hotmail.fr>
+Date:   Sun Nov 3 14:33:51 2024 +0100
+
+    Mise à jour de app.py avec des modifications pour la récupération de la météo
+
+[33mcommit c4d267d4161328ec83be8b7a92e9136ad1962552[m
+Author: Lea Gomis <lea.187@hotmail.fr>
+Date:   Sun Nov 3 14:28:02 2024 +0100
+
+    Mise à jour de app.py avec des modifications pour la récupération de la météo
+
+[33mcommit e3ee619a9be73cfe265e5d573ba90ab858c11fc6[m
+Merge: 147cc7f aac8132
+Author: sophie <sogomispro@gmail.com>
+Date:   Sun Nov 3 14:12:01 2024 +0100
+
+    Merge branch 'dev-front'
+
+[33mcommit aac81327c45065e41c5ad520b69ea7c8cd8eece5[m[33m ([m[1;31morigin/dev-front[m[33m)[m
+Author: sophie <sogomispro@gmail.com>
+Date:   Sun Nov 3 14:09:57 2024 +0100
+
+    Modifications html css js pour connexion app.py
+
+[33mcommit 1d342327d31ba484b13b52399339a4d6d9877f8c[m
+Author: sophie <sogomispro@gmail.com>
+Date:   Sun Nov 3 13:53:07 2024 +0100
+
+    Création des fichiers html et css
+
+[33mcommit 147cc7fd033de80120fdcf76d85cecc0e1f9abb5[m
+Merge: 115d491 916f9d2
+Author: Lea Gomis <lea.187@hotmail.fr>
+Date:   Sun Nov 3 13:23:27 2024 +0100
+
+    connexion a l'API
+
+[33mcommit 115d49196c01241a63b885af5b45b060aee3d167[m
+Author: Lea Gomis <lea.187@hotmail.fr>
+Date:   Sat Nov 2 16:32:50 2024 +0100
+
+    connexion à l'API
+
+[33mcommit ffc5eb05e12617d217ef496eb3e9e0d0379eda21[m
+Author: sophie <sogomispro@gmail.com>
+Date:   Sat Nov 2 00:11:48 2024 +0100
+
+    Création fichier : index.html / result.html / style.css
+
+[33mcommit 916f9d2c5651b4b692ece1e56152bc5cad94e29d[m
+Author: Sophie <146796732+sogomis@users.noreply.github.com>
+Date:   Fri Nov 1 23:30:50 2024 +0100
+
+    Update README.md
+
+[33mcommit 207a8a4fedfb013c9016fff39799919b5677d345[m
+Author: Sophie <146796732+sogomis@users.noreply.github.com>
+Date:   Fri Nov 1 23:30:29 2024 +0100
+
+    Update README.md
+
+[33mcommit 96cf877fe6601943f1512221b2413f99ef5cbf00[m
+Author: sophie <sogomispro@gmail.com>
+Date:   Fri Nov 1 22:37:47 2024 +0100
+
+    Création de la branche Front
+
+[33mcommit a6be55b1ab139d06992394adae1062c63a6c4e5f[m[33m ([m[1;31morigin/Dev-back[m[33m)[m
+Author: lea187 <lea.187@hotmail.fr>
+Date:   Fri Nov 1 22:17:48 2024 +0100
+
+    Initial commit
