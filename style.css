@@ -63,3 +63,15 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
+.return-button {
+    padding: 10px;
+    width: 70%;
+    margin: 10px 0;
+    border: none;
+    border-radius: 50px;
+    background-color: #123452;
+    color: white;
+    cursor: pointer;
+    font-family: 'Poppins', sans-serif;
+}
